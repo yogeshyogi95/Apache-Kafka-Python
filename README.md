@@ -35,6 +35,12 @@ Then inorder to access kafka manager in browser go to this URL
 
 localhost:8080
 
+if any issues arise while creating a cluster in kafka manager
+
+Refer the below link
+
+https://github.com/yahoo/CMAK/issues/731#issuecomment-643880544
+
 
 
 
